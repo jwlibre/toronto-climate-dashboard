@@ -1,0 +1,18 @@
+{
+    "Scenarios": [
+        {
+            "Name": "SSP2-4.5 ('Middle of the Road')",
+            "Socioeconomic Assumptions": "A continuation of current global development trends, with moderate economic growth, population stabilization, and slow technological progress.",
+            "Climate Policy": "Some mitigation efforts are made, but they are not strong enough to limit warming significantly.",
+            "Emissions & Warming": "GHG emissions peak around 2050 and then decline, leading to a moderate warming scenario (~2.7–3.2°C by 2100, compared to pre-industrial levels).",
+            "Energy & Land Use": "A balanced mix of fossil fuels and renewable energy sources, with moderate deforestation and land-use changes."
+        },
+        {
+            "Name": "SSP5-8 ('Fossil-Fuelled Development')",
+            "Socioeconomic Assumptions": "Socioeconomic Assumptions: Rapid economic growth driven by fossil fuel use, high population growth in some regions, and minimal concern for sustainability.",
+            "Climate Policy": "Little to no mitigation, with economic and technological development favoring energy-intensive industries.",
+            "Emissions & Warming": "GHG emissions continue to rise throughout the 21st century, leading to an extreme warming scenario (~4.4°C or higher by 2100).",
+            "Energy & Land Use": "Heavy reliance on coal, oil, and gas, leading to high carbon emissions, deforestation, and ecosystem degradation."
+        }
+    ]
+}
